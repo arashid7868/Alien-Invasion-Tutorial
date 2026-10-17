@@ -1,3 +1,4 @@
+
 """Store settings for the Alien Invasion game."""
 
 
@@ -11,3 +12,4 @@ class Settings:
         self.bg_color = (230, 230, 230)
         self.frame_rate = 60
         self.ship_speed = 1.5
+        self.laser_speed = 8
